@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Planet
+comment1.params=name\ mass\ diameter\ type\ numberOfMoons
+comment1.target=Planet(java.lang.String,\ double,\ double,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getType()
+comment3.params=
+comment3.target=int\ getNumberOfMoons()
+comment4.params=
+comment4.target=void\ displayInfo()
+numComments=5

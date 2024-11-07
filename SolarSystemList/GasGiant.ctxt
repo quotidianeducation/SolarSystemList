@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=GasGiant
+comment1.params=name\ mass\ diameter\ numberOfMoons\ hasRings
+comment1.target=GasGiant(java.lang.String,\ double,\ double,\ int,\ boolean)
+comment2.params=
+comment2.target=boolean\ hasRings()
+comment3.params=
+comment3.target=void\ displayInfo()
+numComments=4
